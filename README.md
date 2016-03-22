@@ -1,2 +1,7 @@
 # pebutcher
-Fork of the pefile project to implement PE file alteration
+
+pebutcher, Portable Executable reader and alteration module
+
+This project is a fork from the awesome pefile project : https://github.com/erocarrera/pefile
+
+
