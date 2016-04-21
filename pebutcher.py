@@ -22,7 +22,7 @@ from builtins import str
 from builtins import zip
 from past.utils import old_div
 
-__author__ = 'Hegusung'
+__author__ = 'Ero Carrera, Hegusung'
 __version__ = '2016.3.22'
 
 import os
